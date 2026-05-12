@@ -34,7 +34,7 @@ lengthNumber.addEventListener('input', function() {
 });
 
 // Generar contraseña
-generateBtnBtn.addEventListener('click', function() {
+generateBtn.addEventListener('click', function() {
     console.log('Botón generar clickeado');
     generatePassword();
 });
